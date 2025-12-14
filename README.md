@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Caloriv Logo" width="120" height="120" />
+ 
   <h1>🏋️ CALORIV - Native Fitness & Nutrition Tracker</h1>
 </div>
 
