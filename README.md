@@ -17,7 +17,7 @@
 
 **Latest Stable Release: v69.0.0**
 
-📱 **[Download APK (Direct Link)](Caloriv.apk)**
+📱 **[Download APK (Direct Link)](https://github.com/sarvast/Caloriv/raw/refs/heads/main/Caloriv.apk)**
 
 ---
 
